@@ -70,7 +70,7 @@ function temperaturaFuncion (){
                 alert(outfitCalor["prendaInferior1"] + " " + outfitCalor["prendaSuperior1"] + " " + outfitCalor["zapatos1"]);
 
             case temperatura < 20:
-                alert(outfitFrio["prendaInferior2"] + " " + OutfitFrio["prendaSuperior2"] + " " + OutfitFrio["abrigo1"] + " " + OutfitFrio["zapatos2"]);
+                alert(outfitFrio["prendaInferior2"] + " " + outfitFrio["prendaSuperior2"] + " " + outfitFrio["abrigo1"] + " " + outfitFrio["zapatos2"]);
 
             case temperatura > 40:
                 alert("¡Quédate en casa y toma agua!");
@@ -115,6 +115,9 @@ function outfit(prendaInferior, prendaSuperior, zapatos){
 
 
 //prompt
+
+const form = document.getElementById
+(elementId = "formulario")
 
 let opcion = " "
 
