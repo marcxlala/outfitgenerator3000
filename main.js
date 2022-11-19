@@ -50,13 +50,29 @@ const outfitRosado = {
     zapatos1: "converse blancas"
 }
 
-
 //arrays
+
 const prendasInferiores = ["falda negra", "jean azul", "pantalón rosado", "falda blanca"];
 const prendasSuperiores =  ["camisa blanca", "camiseta negra", "blusa rosada"];
 const zapatos = ["converse blancas", "Doc Martens", "cowboy boots marrones"];
 const abrigos = ["casaca negra", "tapado blanco", "tapado marrón"];
 
+let faldaNegra = prendasInferiores [0]
+let jeanAzul = prendasInferiores [1]
+let pantalonRosado = prendasInferiores [2]
+let faldaBlanca = prendasInferiores [3]
+
+let camisaBlanca = prendasSuperiores [0]
+let camisetaNegra = prendasSuperiores [1]
+let blusaRosada = prendasSuperiores [2]
+
+let converseBlancas = zapatos[0]
+let docMartens = zapatos [1]
+let cowboyBoots = zapatos [2]
+
+let casacaNegra = abrigos[0]
+let tapadoBlanco = abrigos [1]
+let tapadoMarron = abrigos [2]
 
 //funciones
 
